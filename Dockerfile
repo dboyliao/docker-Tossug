@@ -6,4 +6,4 @@ RUN mkdir /demo_ipynbs
 
 WORKDIR /demo_ipynbs
 
-ADD Tossug_Big_O.ipynb /demo_ipynbs
+ADD Tossug_Big_O.ipynb /demo_ipynbs/
