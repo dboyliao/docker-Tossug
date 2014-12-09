@@ -1,4 +1,5 @@
 ## Mac ##
 .DS_Store
 
-
+## ipython ##
+.ipynb_checkpoints
